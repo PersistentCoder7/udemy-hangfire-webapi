@@ -2,6 +2,8 @@
 
 Author: Ervis Trupja
 
+Package: [Hangfire](https://github.com/HangfireIO/Hangfire)
+
 A common programming task is running **background jobs** and running background jobs successfully without messing the code up is not an easy task, but it is not as hard you might think either.
 
 _A background process/job is a process that runs behind the scenes without user intervention_ and hangfire is a simple, persistent, transparent, reliable and efficient open-source library used to perform background processing in .NET and .NET Core applications.
